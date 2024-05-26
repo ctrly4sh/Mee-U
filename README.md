@@ -1,5 +1,5 @@
 # MEEU - One-to-One Video Conferencing App
-<h1>Connect . Seemless . Secure</h1>
+<h1>Connect . Seamless . Secure</h1>
 
 ![MEEU Logo](path/to/logo.png)
 
