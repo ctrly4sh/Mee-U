@@ -33,8 +33,8 @@ Frontend:
 ### 📂 How to Install and Run
 
 1.  Clone the repository: 
-   git clone https://github.com/yourusername/secure-seamless-chat.git
-   cd secure-seamless-chat
+   git clone https://github.com/ctrly4sh/Mee-u.git
+   cd Mee-U
     
 
 2.  Install dependencies: 
